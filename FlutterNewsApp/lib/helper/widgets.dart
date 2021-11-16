@@ -7,12 +7,12 @@ Widget MyAppBar(){
       mainAxisAlignment: MainAxisAlignment.center,
       children: <Widget>[
         Text(
-          "Flutter",
+          "Sơn",
           style:
           TextStyle(color: Colors.black, fontWeight: FontWeight.w600),
         ),
         Text(
-          " Kiểm Tra",
+          "Tin Tức",
           style: TextStyle(color: Colors.blue, fontWeight: FontWeight.w600),
         )
       ],
